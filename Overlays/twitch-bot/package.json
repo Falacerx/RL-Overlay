@@ -1,0 +1,16 @@
+{
+  "name": "sos-twitch-bot",
+  "version": "1.0.0",
+  "description": "TAnnonymous Twitch bot that listens to messages and forwards them on the SOS network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SimpleAOB",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dank-twitch-irc": "^3.0.7",
+    "prompt": "^1.0.0",
+    "ws": "^7.2.5"
+  }
+}
